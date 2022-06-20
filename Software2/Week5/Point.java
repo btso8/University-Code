@@ -1,4 +1,4 @@
-package codinguniwork.software2.week5;
+package University-Code.Software2.Week5;
 public class Point {
 	
 	public double x, y;
