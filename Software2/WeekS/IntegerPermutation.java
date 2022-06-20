@@ -1,4 +1,4 @@
-package codinguniwork.software2.weeks;
+package University-Code.Software2.WeekS;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
