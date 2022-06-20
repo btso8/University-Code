@@ -1,4 +1,4 @@
-package University-Code.Software2.Week6.src.Algebra;
+package University-Code.Software2.Week7.src.Algebra;
 
 public class Vector {
 
