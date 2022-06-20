@@ -1,4 +1,4 @@
-package University-Code.Software2.Week6.src.Tool.Counter;
+package University-Code.Software2.Week7.src.Tool.Counter;
 
 public class BasicTallyCounter implements ITallyCounter{
 
