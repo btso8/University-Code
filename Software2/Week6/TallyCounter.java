@@ -1,4 +1,4 @@
-package codinguniwork.software2.week6;
+package University-Code.Software2.Week6;
 public class TallyCounter {
 
 	private int counter;
