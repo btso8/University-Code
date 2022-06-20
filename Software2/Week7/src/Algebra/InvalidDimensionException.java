@@ -1,4 +1,4 @@
-package codinguniwork.software2.week7.src.algebra;
+package University-Code.Software2.Week6.src.Algebra;
 
 public class InvalidDimensionException extends RuntimeException{
 
