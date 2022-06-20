@@ -1,4 +1,4 @@
-package codinguniwork.software2.week4;
+package University-Code.Software2.Week4;
 public class Vector {
 
     private double[] vector;
