@@ -1,5 +1,5 @@
-package codinguniwork.software2.week3;
-public class week3exercise2 {
+package University-Code.Software2.Week3;
+public class Week3Exercise2 {
 
     public static int[][] rasterise(int[] data, int width) {
         if (data.length % width != 0) {
