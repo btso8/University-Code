@@ -1,7 +1,7 @@
-package codinguniwork.software2.week3;
+package University-Code.Software2.Week3;
 import java.util.ArrayList;
 
-public class textutils {
+public class TextUtils {
 
     public static String[] split(String text) {
         ArrayList<String> tokens = new ArrayList<String>();
