@@ -1,4 +1,4 @@
-package codinguniwork.software2.week8.src.tools;
+package University-Code.Software2.Week8.src.Tools;
 
 public class LinkedListSet<E> implements ISet<E> {
 
