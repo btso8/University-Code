@@ -1,4 +1,4 @@
-package codinguniwork.software2.week2;
+package University-Code.Software2.Week2;
 import java.util.Scanner;
 
 public class Week2Exercise3 {
