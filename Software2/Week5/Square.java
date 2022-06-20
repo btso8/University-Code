@@ -1,5 +1,4 @@
-package codinguniwork.software2.week5;
-
+package University-Code.Software2.Week5;
 public class Square extends Rectangle {
 	
 	public Square(){
