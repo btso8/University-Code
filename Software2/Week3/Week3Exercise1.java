@@ -1,5 +1,5 @@
-package codinguniwork.software2.week3;
-public class week3exercise1 {
+package University-Code.Software2.Week3;
+public class Week3Exercise1 {
 
     public static int toBase10(String binary) {
         int number = 0;
