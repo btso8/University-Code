@@ -1,4 +1,4 @@
-package codinguniwork.software2.week7.src.tool.counter;
+package University-Code.Software2.Week6.src.Tool.Counter;
 
 import java.util.ArrayList;
 import java.util.List;
