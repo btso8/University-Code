@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <string.h>
 
-#include "pipeline.hpp"
+#include "Pipeline.hpp"
 
    PipelineClass Pipe;
 
