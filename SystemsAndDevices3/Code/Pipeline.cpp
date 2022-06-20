@@ -1,4 +1,4 @@
-#include "pipeline.hpp"
+#include "Pipeline.hpp"
 
 /////// FUNCTIONS ////////////
 
